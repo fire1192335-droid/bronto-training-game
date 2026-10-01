@@ -1,0 +1,24 @@
+{
+  "savedOn": "2026-10-01",
+  "noConsoleSource": "Current build with only bronto-console.js and bronto-console.css omitted",
+  "consoleSource": "Exact copy of current validated offline HTML",
+  "validation": "Static syntax, embedded dependency, console presence and SHA-256 checks",
+  "files": [
+    {
+      "file": "BRONTO_3D_無控制台版.html",
+      "bytes": 1049001,
+      "sha256": "1f7324a97ccac72ddfe57485299b8114808c6a550b42aac4a8476e5ec6ebf4b2",
+      "hasConsole": false,
+      "scriptSyntax": "PASS",
+      "embeddedThree": true
+    },
+    {
+      "file": "BRONTO_3D_可操作控制台版.html",
+      "bytes": 1066646,
+      "sha256": "d47899019c12071161a7ca585b93bf83c9c10db84ab3701df1960fc0b8b7da69",
+      "hasConsole": true,
+      "scriptSyntax": "PASS",
+      "embeddedThree": true
+    }
+  ]
+}
