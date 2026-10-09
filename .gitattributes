@@ -1,3 +1,5 @@
 *.html -text
 *.json -text
 *.md text eol=lf
+小遊戲3.0/** -text
+小遊戲3.0.sha256 -text

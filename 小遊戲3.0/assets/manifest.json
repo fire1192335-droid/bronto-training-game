@@ -1,0 +1,393 @@
+{
+ "version": 1,
+ "assets": [
+  {
+   "id": "basket30",
+   "type": "gltf",
+   "url": "models/basket30.glb",
+   "bytes": 1399244
+  },
+  {
+   "id": "bridge30",
+   "type": "gltf",
+   "url": "models/bridge30.glb",
+   "bytes": 659316
+  },
+  {
+   "id": "decal_bureau",
+   "type": "texture",
+   "url": "textures/decal_bureau.png",
+   "bytes": 30691,
+   "colorSpace": "srgb"
+  },
+  {
+   "id": "decal_bureau_rtl",
+   "type": "texture",
+   "url": "textures/decal_bureau_rtl.png",
+   "bytes": 30788,
+   "colorSpace": "srgb"
+  },
+  {
+   "id": "decal_slogan",
+   "type": "texture",
+   "url": "textures/decal_slogan.png",
+   "bytes": 25283,
+   "colorSpace": "srgb"
+  },
+  {
+   "id": "decal_unit",
+   "type": "texture",
+   "url": "textures/decal_unit.png",
+   "bytes": 17371,
+   "colorSpace": "srgb"
+  },
+  {
+   "id": "facade_concrete",
+   "type": "texture",
+   "url": "textures/facade_concrete.png",
+   "bytes": 996313,
+   "colorSpace": "srgb"
+  },
+  {
+   "id": "facade_tile_beige",
+   "type": "texture",
+   "url": "textures/facade_tile_beige.png",
+   "bytes": 726795,
+   "colorSpace": "srgb"
+  },
+  {
+   "id": "facade_tile_grey",
+   "type": "texture",
+   "url": "textures/facade_tile_grey.png",
+   "bytes": 616139,
+   "colorSpace": "srgb"
+  },
+  {
+   "id": "facade_tile_white",
+   "type": "texture",
+   "url": "textures/facade_tile_white.png",
+   "bytes": 607222,
+   "colorSpace": "srgb"
+  },
+  {
+   "id": "fx_dust",
+   "type": "texture",
+   "url": "textures/fx_dust.png",
+   "bytes": 219743,
+   "colorSpace": "srgb"
+  },
+  {
+   "id": "fx_fire",
+   "type": "texture",
+   "url": "textures/fx_fire.png",
+   "bytes": 2366064,
+   "colorSpace": "srgb"
+  },
+  {
+   "id": "fx_runoff",
+   "type": "texture",
+   "url": "textures/fx_runoff.png",
+   "bytes": 464749,
+   "colorSpace": "srgb"
+  },
+  {
+   "id": "fx_smoke",
+   "type": "texture",
+   "url": "textures/fx_smoke.png",
+   "bytes": 2158436,
+   "colorSpace": "srgb"
+  },
+  {
+   "id": "fx_splash",
+   "type": "texture",
+   "url": "textures/fx_splash.png",
+   "bytes": 717063,
+   "colorSpace": "srgb"
+  },
+  {
+   "id": "fx_spray",
+   "type": "texture",
+   "url": "textures/fx_spray.png",
+   "bytes": 865078,
+   "colorSpace": "srgb"
+  },
+  {
+   "id": "fx_water_jet",
+   "type": "texture",
+   "url": "textures/fx_water_jet.png",
+   "bytes": 247460,
+   "colorSpace": "srgb"
+  },
+  {
+   "id": "intro_below",
+   "type": "video",
+   "url": "video/intro_below.mp4",
+   "bytes": 2054599,
+   "preload": false
+  },
+  {
+   "id": "intro_below_poster",
+   "type": "texture",
+   "url": "video/intro_below_poster.jpg",
+   "bytes": 154771,
+   "colorSpace": "srgb",
+   "preload": false
+  },
+  {
+   "id": "intro_below_thumb",
+   "type": "texture",
+   "url": "video/intro_below_thumb.jpg",
+   "bytes": 38464,
+   "colorSpace": "srgb",
+   "preload": false
+  },
+  {
+   "id": "intro_rescue",
+   "type": "video",
+   "url": "video/intro_rescue.mp4",
+   "bytes": 2452865,
+   "preload": false
+  },
+  {
+   "id": "intro_rescue_poster",
+   "type": "texture",
+   "url": "video/intro_rescue_poster.jpg",
+   "bytes": 172198,
+   "colorSpace": "srgb",
+   "preload": false
+  },
+  {
+   "id": "intro_rescue_thumb",
+   "type": "texture",
+   "url": "video/intro_rescue_thumb.jpg",
+   "bytes": 51222,
+   "colorSpace": "srgb",
+   "preload": false
+  },
+  {
+   "id": "intro_retreat",
+   "type": "video",
+   "url": "video/intro_retreat.mp4",
+   "bytes": 2452050,
+   "preload": false
+  },
+  {
+   "id": "intro_retreat_poster",
+   "type": "texture",
+   "url": "video/intro_retreat_poster.jpg",
+   "bytes": 172569,
+   "colorSpace": "srgb",
+   "preload": false
+  },
+  {
+   "id": "intro_retreat_thumb",
+   "type": "texture",
+   "url": "video/intro_retreat_thumb.jpg",
+   "bytes": 45939,
+   "colorSpace": "srgb",
+   "preload": false
+  },
+  {
+   "id": "intro_water",
+   "type": "video",
+   "url": "video/intro_water.mp4",
+   "bytes": 2247414,
+   "preload": false
+  },
+  {
+   "id": "intro_water_poster",
+   "type": "texture",
+   "url": "video/intro_water_poster.jpg",
+   "bytes": 186674,
+   "colorSpace": "srgb",
+   "preload": false
+  },
+  {
+   "id": "intro_water_thumb",
+   "type": "texture",
+   "url": "video/intro_water_thumb.jpg",
+   "bytes": 44749,
+   "colorSpace": "srgb",
+   "preload": false
+  },
+  {
+   "id": "roller_shutter",
+   "type": "texture",
+   "url": "textures/roller_shutter.png",
+   "bytes": 748358,
+   "colorSpace": "srgb"
+  },
+  {
+   "id": "sign_1",
+   "type": "texture",
+   "url": "textures/sign_1.png",
+   "bytes": 8639,
+   "colorSpace": "srgb"
+  },
+  {
+   "id": "sign_10",
+   "type": "texture",
+   "url": "textures/sign_10.png",
+   "bytes": 8633,
+   "colorSpace": "srgb"
+  },
+  {
+   "id": "sign_2",
+   "type": "texture",
+   "url": "textures/sign_2.png",
+   "bytes": 8436,
+   "colorSpace": "srgb"
+  },
+  {
+   "id": "sign_3",
+   "type": "texture",
+   "url": "textures/sign_3.png",
+   "bytes": 11304,
+   "colorSpace": "srgb"
+  },
+  {
+   "id": "sign_4",
+   "type": "texture",
+   "url": "textures/sign_4.png",
+   "bytes": 14800,
+   "colorSpace": "srgb"
+  },
+  {
+   "id": "sign_5",
+   "type": "texture",
+   "url": "textures/sign_5.png",
+   "bytes": 11268,
+   "colorSpace": "srgb"
+  },
+  {
+   "id": "sign_6",
+   "type": "texture",
+   "url": "textures/sign_6.png",
+   "bytes": 7203,
+   "colorSpace": "srgb"
+  },
+  {
+   "id": "sign_7",
+   "type": "texture",
+   "url": "textures/sign_7.png",
+   "bytes": 10290,
+   "colorSpace": "srgb"
+  },
+  {
+   "id": "sign_8",
+   "type": "texture",
+   "url": "textures/sign_8.png",
+   "bytes": 7842,
+   "colorSpace": "srgb"
+  },
+  {
+   "id": "sign_9",
+   "type": "texture",
+   "url": "textures/sign_9.png",
+   "bytes": 8563,
+   "colorSpace": "srgb"
+  },
+  {
+   "id": "skyline_panorama",
+   "type": "texture",
+   "url": "textures/skyline_panorama.png",
+   "bytes": 1719207,
+   "colorSpace": "srgb"
+  },
+  {
+   "id": "street30",
+   "type": "gltf",
+   "url": "models/street30.glb",
+   "bytes": 1726876
+  },
+  {
+   "id": "target30",
+   "type": "gltf",
+   "url": "models/target30.glb",
+   "bytes": 971152
+  },
+  {
+   "id": "tex_asphalt",
+   "type": "texture",
+   "url": "textures/tex_asphalt.png",
+   "bytes": 1250714,
+   "colorSpace": "srgb"
+  },
+  {
+   "id": "tex_bridge_concrete",
+   "type": "texture",
+   "url": "textures/tex_bridge_concrete.png",
+   "bytes": 959484,
+   "colorSpace": "srgb"
+  },
+  {
+   "id": "tex_curb",
+   "type": "texture",
+   "url": "textures/tex_curb.png",
+   "bytes": 158491,
+   "colorSpace": "srgb"
+  },
+  {
+   "id": "tex_river",
+   "type": "texture",
+   "url": "textures/tex_river.png",
+   "bytes": 725710,
+   "colorSpace": "srgb"
+  },
+  {
+   "id": "tex_rock",
+   "type": "texture",
+   "url": "textures/tex_rock.png",
+   "bytes": 1108348,
+   "colorSpace": "srgb"
+  },
+  {
+   "id": "tex_sidewalk",
+   "type": "texture",
+   "url": "textures/tex_sidewalk.png",
+   "bytes": 1068931,
+   "colorSpace": "srgb"
+  },
+  {
+   "id": "tex_slope_grass",
+   "type": "texture",
+   "url": "textures/tex_slope_grass.png",
+   "bytes": 1492556,
+   "colorSpace": "srgb"
+  },
+  {
+   "id": "title_loop",
+   "type": "video",
+   "url": "video/title_loop.mp4",
+   "bytes": 2748429,
+   "preload": false
+  },
+  {
+   "id": "title_loop_poster",
+   "type": "texture",
+   "url": "video/title_loop_poster.jpg",
+   "bytes": 181347,
+   "colorSpace": "srgb",
+   "preload": false
+  },
+  {
+   "id": "truck30",
+   "type": "gltf",
+   "url": "models/truck30.glb",
+   "bytes": 2322436
+  },
+  {
+   "id": "victim30",
+   "type": "gltf",
+   "url": "models/victim30.glb",
+   "bytes": 182928
+  },
+  {
+   "id": "window_glass",
+   "type": "texture",
+   "url": "textures/window_glass.png",
+   "bytes": 653051,
+   "colorSpace": "srgb"
+  }
+ ]
+}
